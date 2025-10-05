@@ -324,7 +324,7 @@ font-size: 30px;
 .menubar a{
    text-transform: capitalize;
     font-weight: bold;
-    color: black;
+    color: rgb(0,0,0);
     text-decoration: none;
     padding: 7px;
     border-radius: 5px;
@@ -433,3 +433,4 @@ font-size: 30px;
   .hamburger{display:none;}
 
 }
+
