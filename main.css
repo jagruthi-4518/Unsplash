@@ -324,7 +324,7 @@ font-size: 30px;
 .menubar a{
    text-transform: capitalize;
     font-weight: bold;
-    color: black(255,255,255);
+    color: black;
     text-decoration: none;
     padding: 7px;
     border-radius: 5px;
@@ -431,4 +431,5 @@ font-size: 30px;
 }
 @media(min-width:500px){
   .hamburger{display:none;}
+
 }
